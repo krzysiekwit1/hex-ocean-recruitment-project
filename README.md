@@ -33,5 +33,5 @@ $ yarn install or npm install
 $ npm start
 ```
 ## ScreenShot
-![ScreenShot](https://raw.githubusercontent.com/krzysiekwit1/hex-ocean-recruitment-project/master/src/images/hexOceanRecruitmentProjectScreenShot.PNG)
+![ScreenShot](https://raw.githubusercontent.com/krzysiekwit1/hex-ocean-recruitment-project/master/src/images/hexOceanRecruitmentProjectSS.PNG)
 
