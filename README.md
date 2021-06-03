@@ -3,6 +3,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [ScreenShot](#ScreenShot)
 
 ## General info
 
@@ -31,3 +32,6 @@ $ cd hex-ocean-recruitment-project
 $ yarn install or npm install
 $ npm start
 ```
+## ScreenShot
+![ScreenShot](https://raw.githubusercontent.com/krzysiekwit1/hex-ocean-recruitment-project/master/src/images/hexOceanRecruitmentProjectScreenShot.PNG)
+
