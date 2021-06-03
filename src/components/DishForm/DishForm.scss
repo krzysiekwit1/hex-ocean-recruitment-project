@@ -1,0 +1,49 @@
+@import '../../styles/styles.scss';
+.dish-form {
+  &__preparation-time-input {
+    .react-time-picker__wrapper {
+      padding-top: 6px;
+      padding-bottom: 6px;
+    }
+    .react-time-picker__wrapper {
+      border: 1px solid $color-black;
+      border-radius: 0.25rem;
+    }
+    .react-time-picker__inputGroup__input {
+      background-color: transparent !important;
+      border: none;
+    }
+    .react-time-picker__inputGroup__input:focus-visible {
+      outline: none !important;
+    }
+    .react-time-picker__clear-button__icon {
+      display: none;
+    }
+  }
+  input,
+  select {
+    border: 1px solid $color-black;
+  }
+  input:hover,
+  input:active,
+  select:focus,
+  select:active,
+  input:focus,
+  button:focus,
+  button:active,
+  button:hover,
+  label:focus,
+  .btn:active,
+  .btn.active {
+    -webkit-appearance: none;
+    box-shadow: none;
+    border: 1px solid $color-black;
+  }
+}
+pre {
+  height: 100%;
+  background-color: $color-black;
+  code {
+    color: $color-white;
+  }
+}
