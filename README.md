@@ -6,7 +6,7 @@
 
 ## General info
 
-This is recruitment project, allow to send data in json and display request
+This is recruitment project, allow to send data in json and display response
 
 ## Technologies
 
