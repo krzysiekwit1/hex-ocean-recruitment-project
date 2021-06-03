@@ -46,7 +46,7 @@ const DishForm = () => {
           formData.get('diameter') >= 0
         ) {
           sendData.no_of_slices = parseInt(formData.get('no_of_slices'))
-          sendData.diameter = parseInt(formData.get('diameter'))
+          sendData.diameter = parseFloat(formData.get('diameter'))
           axiosRequest(sendData)
           break
         } else {
